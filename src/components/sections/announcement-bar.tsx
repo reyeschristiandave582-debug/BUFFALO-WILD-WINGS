@@ -100,7 +100,7 @@ export default function AnnouncementBar() {
           </div>
 
           <div className="text-[10px] sm:text-[11px] text-white truncate leading-tight">
-            <span className="font-extrabold text-[#df6a25]">{currentNotif.name} </span>
+            <span className="font-extrabold text-[#ffc600]">{currentNotif.name} </span>
             <span className="text-gray-200">{currentNotif.action}</span>
           </div>
         </div>
