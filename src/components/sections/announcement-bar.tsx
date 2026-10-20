@@ -20,7 +20,7 @@ const firstNames = [
 const lastInitials = ["B.", "C.", "D.", "F.", "G.", "H.", "J.", "K.", "L.", "M.", "P.", "R.", "S.", "T.", "W."];
 
 const actions = [
-  "just claimed a $500 Popeyes card!",
+  "just claimed a $500 Buffalo Wild Wings card!",
   "just claimed a $500 voucher!",
   "just unlocked reward eligibility!",
   "just completed the review survey!",
